@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <br>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2> <br>
     <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=7ijin01&show_icons=true&theme=dark&count_private=true&cache_seconds=1800">
+        <img src="https://github-readme-stats.vercel.app/api?username=7ijin01&show_icons=true&theme=dark&cache_seconds=1800">
 
     </div>
 </div>
